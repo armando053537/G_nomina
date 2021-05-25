@@ -4,10 +4,10 @@
   - Solución: Al utilizar una aplicación para que genere la nómina, facilitará la documentación y ahorrará de manera eficiente el tiempo que se tomará.
 # Requerimientos
   - Softwares: 
-    ○ Java (TM) SE Development Kit 15.0.2
-    ○ Apache NetBeans IDE 12.3
+    - Java (TM) SE Development Kit 15.0.2
+    - Apache NetBeans IDE 12.3
   - Librerías:
-    • commons-collections4-4.4
+    - commons-collections4-4.4
     • commons-compress-1.2
     • poi-4.1.2
     • poi-ooxml-4.1.2
