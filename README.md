@@ -6,7 +6,7 @@
   • Softwares: 
     ○ Java (TM) SE Development Kit 15.0.2
     ○ Apache NetBeans IDE 12.3
-  Librerías:
+  • Librerías:
     • commons-collections4-4.4
     • commons-compress-1.2
     • poi-4.1.2
