@@ -3,9 +3,9 @@
   - Problema identificado: Se identificó dentro de la tienda que el proceso de administración, principalmente en las nóminas, se realizan la documentación de manera manual.
   - Solución: Al utilizar una aplicación para que genere la nómina, facilitará la documentación y ahorrará de manera eficiente el tiempo que se tomará.
 # Requerimientos
-  Softwares:
-    • Java (TM) SE Development Kit 15.0.2
-    • Apache NetBeans IDE 12.3
+  • Softwares: 
+    ○ Java (TM) SE Development Kit 15.0.2
+    ○ Apache NetBeans IDE 12.3
   Librerías:
     • commons-collections4-4.4
     • commons-compress-1.2
